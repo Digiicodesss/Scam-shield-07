@@ -1,0 +1,10 @@
+{
+  "name": "smartshield-ai",
+  "version": "2.0.0",
+  "private": true,
+  "description": "SMARTSHIELD AI — Intelligent Suspicious Message Detection & Cyber Threat Awareness Platform",
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build",
+    "dev": "cd frontend && npm run dev"
+  }
+}
